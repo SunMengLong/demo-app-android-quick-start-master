@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pooh\Desktop\rongyun\demo-app-android-quick-start-master\app\build\intermediates\exploded-aar\demo-app-android-quick-start-master\IMKit\unspecified\jars\libs\Rong_IMKit_v2_4_11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="75271cda367c5ec9f586137891272d050f4b5252">
+        <dex dex="C:\Users\Pooh\Desktop\rongyun\demo-app-android-quick-start-master\app\build\intermediates\pre-dexed\debug\Rong_IMKit_v2_4_11_fd7d1178e90ff6f52b7de51a50a82f07165678ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pooh\Desktop\rongyun\demo-app-android-quick-start-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Pooh\Desktop\rongyun\demo-app-android-quick-start-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_dbf13ceef22e1cc94d21c7bbac107145bdb33bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pooh\Desktop\rongyun\demo-app-android-quick-start-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bdd33ca4eb92485318090d2acafce8608e5efa49">
+        <dex dex="C:\Users\Pooh\Desktop\rongyun\demo-app-android-quick-start-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5001cbac5a533d2c0541e8e70004ceda26b5a0f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pooh\Desktop\rongyun\demo-app-android-quick-start-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="81b570dc3c23b8111f441d3cd0e627d5594e33c5">
+        <dex dex="C:\Users\Pooh\Desktop\rongyun\demo-app-android-quick-start-master\app\build\intermediates\pre-dexed\debug\instant-run_9bfb6d575d8df215da2661edb174ae4041b77088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pooh\Desktop\rongyun\demo-app-android-quick-start-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Pooh\Desktop\rongyun\demo-app-android-quick-start-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_22deb110fabfcc0e78174d11ea274bacfd4c355b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pooh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Pooh\Desktop\rongyun\demo-app-android-quick-start-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_df1d2149cba3a1a84f18af62b5d7875cb6d5a2fe.jar" />
+    </item>
+
+</items>
